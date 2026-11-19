@@ -3,7 +3,7 @@
 ### Full-Stack Software Engineer | SaaS & Product Engineering
 
 \<p align="center">
-&#x20; \<img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+software+that+solves+real+problems.;Engineering+end-to-end+web+and+mobile+applications.;Designing+reliable+and+scalable+SaaS+systems.;Turning+business+ideas+into+working+software](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=500\&size=21\&pause=1000\&color=58A6FF\&center=true\&vCenter=true\&width=800\&lines=Building+software+that+solves+real+problems.;Engineering+end-to-end+web+and+mobile+applications.;Designing+reliable+and+scalable+SaaS+systems.;Turning+business+ideas+into+working+software)." alt="Developer introduction"/>
+&#x20; \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Engineering+software+with+purpose.;Building+end-to-end+web+and+mobile+applications.;Designing+reliable+and+scalable+SaaS+systems.;Turning+business+requirements+into+software](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=22\&pause=1000\&color=58A6FF\&center=true\&vCenter=true\&width=850\&lines=Engineering+software+with+purpose.;Building+end-to-end+web+and+mobile+applications.;Designing+reliable+and+scalable+SaaS+systems.;Turning+business+requirements+into+software)." alt="Developer introduction"/>
 \</p>
 
 \<p align="center">
@@ -16,17 +16,13 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science undergraduate and software developer passionate about **building complete, reliable, and scalable software products**.
+I'm a Computer Science undergraduate passionate about **engineering complete software products, from business requirements to working applications**.
 
-I work across the software development lifecycle — understanding client and business requirements, designing system architecture, developing web and mobile applications, engineering backend services, managing databases, and delivering integrated solutions.
+I work across frontend, backend, mobile, databases, system architecture and cloud technologies, with a focus on client-oriented development and SaaS solutions.
 
-My focus goes beyond making applications work. I care about clean architecture, security, performance, maintainability, and building software that solves real-world problems.
+I value clean architecture, secure systems, reliable integrations and maintainable code.
 
-- 🏗️ Full-stack application and SaaS engineering
-- 🔌 Backend development, REST APIs and system integration
-- 🖥️ Modern web and cross-platform mobile development
-- 🗄️ Database design, authentication and data integrity
-- 🧪 Testing, Docker, CI/CD and software quality
+**My focus:** Full-Stack Development · SaaS Engineering · Backend Architecture · Mobile Development · Database Design · Cloud & DevOps
 
 ---
 
@@ -35,61 +31,56 @@ My focus goes beyond making applications work. I care about clean architecture, 
 **Languages**
 
 \<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=java,ts,js,python,dart,php,c,html,css](https://skillicons.dev/icons?i=java,ts,js,python,dart,php,c,html,css)" alt="Java, TypeScript, JavaScript, Python, Dart, PHP, C, HTML and CSS"/>
+&#x20; \<img src="[https://skillicons.dev/icons?i=java,ts,js,python,dart,php,c&perline=9](https://skillicons.dev/icons?i=java,ts,js,python,dart,php,c\&perline=9)" alt="Java, TypeScript, JavaScript, Python, Dart, PHP and C"/>
 \</p>
 
 **Frontend & Mobile**
 
 \<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=angular,nextjs,react,flutter,tailwind,vite](https://skillicons.dev/icons?i=angular,nextjs,react,flutter,tailwind,vite)" alt="Angular, Next.js, React, Flutter, Tailwind CSS and Vite"/>
+&#x20; \<img src="[https://skillicons.dev/icons?i=angular,nextjs,react,flutter,tailwind,vite&perline=9](https://skillicons.dev/icons?i=angular,nextjs,react,flutter,tailwind,vite\&perline=9)" alt="Angular, Next.js, React, Flutter, Tailwind CSS and Vite"/>
 \</p>
 
 **Backend & Frameworks**
 
 \<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=spring,nestjs,fastapi,laravel,nodejs](https://skillicons.dev/icons?i=spring,nestjs,fastapi,laravel,nodejs)" alt="Spring Boot, NestJS, FastAPI, Laravel and Node.js"/>
+&#x20; \<img src="[https://skillicons.dev/icons?i=spring,nestjs,fastapi,laravel,nodejs&perline=9](https://skillicons.dev/icons?i=spring,nestjs,fastapi,laravel,nodejs\&perline=9)" alt="Spring Boot, NestJS, FastAPI, Laravel and Node.js"/>
 \</p>
 
 **Databases & Cloud**
 
 \<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,firebase,gcp](https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,firebase,gcp)" alt="PostgreSQL, MySQL, SQLite, Supabase, Firebase and Google Cloud"/>
+&#x20; \<img src="[https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,firebase,gcp&perline=9](https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,firebase,gcp\&perline=9)" alt="PostgreSQL, MySQL, SQLite, Supabase, Firebase and Google Cloud"/>
 \</p>
 
-**Tools & Engineering**
+**Tools & Quality Engineering**
 
-\<p>   \<img src="[https://skillicons.dev/icons?i=git,github,docker,githubactions,postman,selenium,pytest,vscode,idea](https://skillicons.dev/icons?i=git,github,docker,githubactions,postman,selenium,pytest,vscode,idea)" alt="Git, GitHub, Docker, GitHub Actions, Postman, Selenium, Pytest, VS Code and IntelliJ IDEA"/> \</p>
+\<p>
+&#x20; \<img src="[https://skillicons.dev/icons?i=git,github,docker,githubactions,postman,selenium,pytest,vscode,idea&perline=9](https://skillicons.dev/icons?i=git,github,docker,githubactions,postman,selenium,pytest,vscode,idea\&perline=9)" alt="Git, GitHub, Docker, GitHub Actions, Postman, Selenium, Pytest, VS Code and IntelliJ IDEA"/>
+\</p>
 
-**Additional technologies:** Prisma · Hibernate / JPA · Spring Security · JWT · Riverpod · Provider · GoRouter · Dio · Socket.IO · WebSockets · REST APIs · OpenAPI · Docker Compose · Google Cloud Console
-
----
-
-## 🏗️ What I Bring to Software Engineering
-
-| Area                  | Capabilities                                                        |
-| --------------------- | ------------------------------------------------------------------- |
-| Software Architecture | Modular design, system architecture and maintainable code           |
-| SaaS Engineering      | Multi-tenancy, workspaces, memberships, RBAC and project management |
-| Backend Engineering   | Business logic, secure APIs, authentication and integrations        |
-| Frontend & Mobile     | Responsive web applications and cross-platform mobile apps          |
-| Database Engineering  | Relational modeling, migrations, transactions and data integrity    |
-| Quality & Delivery    | Automated testing, Docker, CI/CD and deployment workflows           |
-
-I enjoy taking a product from **requirements to architecture, implementation, integration and delivery**.
+**Also:** Prisma · Hibernate / JPA · Spring Security · JWT · Riverpod · Provider · GoRouter · Dio · REST APIs · WebSockets · Socket.IO · OpenAPI · Docker Compose · Google Cloud Console
 
 ---
 
-## 🚀 Currently Building
+## 🏗️ What I Engineer
+
+- **End-to-End Applications:** Modern web applications, backend services and cross-platform mobile apps.
+- **SaaS Platforms:** Multi-tenancy, workspaces, team management, memberships, RBAC and monitoring systems.
+- **Backend Systems:** Business logic, secure APIs, authentication, integrations and database transactions.
+- **Cloud & Delivery:** Firebase, Google Cloud, Docker, CI/CD and deployment workflows.
+- **Software Quality:** Testing, data integrity, error handling and maintainable architecture.
+
+From understanding client requirements and designing systems to implementation, integration and delivery.
+
+---
+
+## 🚀 What I'm Building
 
 **BOSSONE.LK** — Client-focused B2B wholesale commerce and business management platform.
 
-*Engineering customer experiences, business workflows, inventory, ordering, authentication and integrated management systems.*
-
 `Next.js` `NestJS` `TypeScript` `Prisma` `PostgreSQL` `Supabase` `Socket.IO`
 
-**APIWatch** — Multi-tenant SaaS platform for API monitoring and development team management.
-
-*Designing workspace-based architecture, project permissions, monitoring workflows and reliable backend services.*
+**APIWatch** — Multi-tenant SaaS platform focused on API monitoring and development team management.
 
 `Angular` `Java` `Spring Boot` `TypeScript` `PostgreSQL` `Docker`
 
@@ -101,14 +92,10 @@ I enjoy taking a product from **requirements to architecture, implementation, in
 Lanka Nippon BizTech Institute (LNBTI) · University of Greenwich affiliation
 2023 – Present
 
----
-
-## 🌐 Languages
-
-🇱🇰 Sinhala (Native) · 🇬🇧 English (Fluent) · 🇯🇵 Japanese (Basic)
+**Languages:** 🇱🇰 Sinhala · 🇬🇧 English · 🇯🇵 Japanese
 
 ---
 
-\<p align="center">   \<b>Engineering beyond features. Building beyond expectations.\</b> \</p>
+\<p align="center">   \<b>Engineering beyond features. Building beyond expectations. 🚀\</b> \</p>
 
-\<p align="center">   \<a href="[https://github.com/dewsithmenuka](https://github.com/dewsithmenuka)">Explore My Projects\</a> ·   \<a href="[https://www.linkedin.com/in/menuka-dewsith-b6b04a2a6/](https://www.linkedin.com/in/menuka-dewsith-b6b04a2a6/)">Let's Connect\</a> ·   \<a href="mailto\:dewsithmenuka\@gmail.com">Get in Touch\</a> \</p>
+\<p align="center">   \<a href="[https://github.com/dewsithmenuka](https://github.com/dewsithmenuka)">Explore My Repositories\</a> ·   \<a href="[https://www.linkedin.com/in/menuka-dewsith-b6b04a2a6/](https://www.linkedin.com/in/menuka-dewsith-b6b04a2a6/)">Connect on LinkedIn\</a> ·   \<a href="mailto\:dewsithmenuka\@gmail.com">Get in Touch\</a> \</p>
