@@ -1,86 +1,128 @@
-# Hey, I'm Menuka 👋
+<div align="center">
 
-### Full-Stack Software Engineer | SaaS & Product Engineering
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:123B66,100:2389DA&height=200&section=header&text=MENUKA%20DEWSITH&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20SOFTWARE%20ENGINEER%20%7C%20SAAS%20PRODUCT%20ENGINEERING&descSize=15&descAlignY=58&animation=fadeIn" width="100%" alt="Header"/>
 
-\<p align="center">
-&#x20; \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Engineering+software+with+purpose.;Building+end-to-end+web+and+mobile+applications.;Designing+reliable+and+scalable+SaaS+systems.;Turning+business+requirements+into+software](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=22\&pause=1000\&color=58A6FF\&center=true\&vCenter=true\&width=850\&lines=Engineering+software+with+purpose.;Building+end-to-end+web+and+mobile+applications.;Designing+reliable+and+scalable+SaaS+systems.;Turning+business+requirements+into+software)." alt="Developer introduction"/>
-\</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Engineering+software+with+purpose.;Building+complete+web+and+mobile+applications.;Designing+reliable+and+scalable+SaaS+systems.;Turning+business+requirements+into+software." alt="Typing introduction"/>
 
-\<p align="center">
-&#x20; \<a href="[https://github.com/dewsithmenuka](https://github.com/dewsithmenuka)">\<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub"/>\</a>
-&#x20; \<a href="[https://www.linkedin.com/in/menuka-dewsith-b6b04a2a6/](https://www.linkedin.com/in/menuka-dewsith-b6b04a2a6/)">\<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" alt="LinkedIn"/>\</a>
-&#x20; \<a href="mailto\:dewsithmenuka\@gmail.com">\<img src="[https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)" alt="Email"/>\</a>
-\</p>
+<p>
+  <a href="https://github.com/dewsithmenuka">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/menuka-dewsith-b6b04a2a6/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:dewsithmenuka@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science undergraduate passionate about **engineering complete software products, from business requirements to working applications**.
+I'm a Computer Science undergraduate and software developer passionate about **engineering complete, reliable, and scalable software products**.
 
-I work across frontend, backend, mobile, databases, system architecture and cloud technologies, with a focus on client-oriented development and SaaS solutions.
+I enjoy collaborating on client projects, understanding real-world business requirements, and transforming ideas into working software — from system architecture and database design to frontend, backend, mobile applications, and deployment.
 
-I value clean architecture, secure systems, reliable integrations and maintainable code.
-
-**My focus:** Full-Stack Development · SaaS Engineering · Backend Architecture · Mobile Development · Database Design · Cloud & DevOps
+My focus is on **Full-Stack Development, SaaS Engineering, Backend Architecture, and End-to-End Product Development.**
 
 ---
 
-## 💻 Tech Stack
+## 💻 Technology Stack
 
-**Languages**
+### Languages
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=java,ts,js,python,dart,php,c&perline=9](https://skillicons.dev/icons?i=java,ts,js,python,dart,php,c\&perline=9)" alt="Java, TypeScript, JavaScript, Python, Dart, PHP and C"/>
-\</p>
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
-**Frontend & Mobile**
+### Frontend & Mobile Development
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=angular,nextjs,react,flutter,tailwind,vite&perline=9](https://skillicons.dev/icons?i=angular,nextjs,react,flutter,tailwind,vite\&perline=9)" alt="Angular, Next.js, React, Flutter, Tailwind CSS and Vite"/>
-\</p>
+<p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+</p>
 
-**Backend & Frameworks**
+### Backend & Frameworks
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=spring,nestjs,fastapi,laravel,nodejs&perline=9](https://skillicons.dev/icons?i=spring,nestjs,fastapi,laravel,nodejs\&perline=9)" alt="Spring Boot, NestJS, FastAPI, Laravel and Node.js"/>
-\</p>
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+</p>
 
-**Databases & Cloud**
+### Databases & Cloud
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,firebase,gcp&perline=9](https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase,firebase,gcp\&perline=9)" alt="PostgreSQL, MySQL, SQLite, Supabase, Firebase and Google Cloud"/>
-\</p>
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+</p>
 
-**Tools & Quality Engineering**
+### Development Tools & Quality Engineering
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=git,github,docker,githubactions,postman,selenium,pytest,vscode,idea&perline=9](https://skillicons.dev/icons?i=git,github,docker,githubactions,postman,selenium,pytest,vscode,idea\&perline=9)" alt="Git, GitHub, Docker, GitHub Actions, Postman, Selenium, Pytest, VS Code and IntelliJ IDEA"/>
-\</p>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+</p>
 
-**Also:** Prisma · Hibernate / JPA · Spring Security · JWT · Riverpod · Provider · GoRouter · Dio · REST APIs · WebSockets · Socket.IO · OpenAPI · Docker Compose · Google Cloud Console
+**Additional technologies:** Prisma · Hibernate / JPA · Spring Security · JWT · Riverpod · Provider · GoRouter · Dio · REST APIs · WebSockets · Socket.IO · OpenAPI · Docker Compose · Gradle · pnpm
 
 ---
 
-## 🏗️ What I Engineer
+## 🏗️ Engineering Capabilities
 
-- **End-to-End Applications:** Modern web applications, backend services and cross-platform mobile apps.
-- **SaaS Platforms:** Multi-tenancy, workspaces, team management, memberships, RBAC and monitoring systems.
-- **Backend Systems:** Business logic, secure APIs, authentication, integrations and database transactions.
-- **Cloud & Delivery:** Firebase, Google Cloud, Docker, CI/CD and deployment workflows.
-- **Software Quality:** Testing, data integrity, error handling and maintainable architecture.
+| Area | What I Build |
+|---|---|
+| System Architecture | Modular, maintainable and scalable application structures |
+| SaaS Engineering | Multi-tenancy, workspaces, team management and RBAC |
+| Backend Engineering | Secure APIs, business logic and system integrations |
+| Frontend & Mobile | Complete web applications and cross-platform mobile apps |
+| Database Engineering | Relational modeling, transactions and data integrity |
+| Cloud & DevOps | Cloud integration, containerization and CI/CD |
+| Quality Engineering | Automated testing, validation and reliable workflows |
 
-From understanding client requirements and designing systems to implementation, integration and delivery.
+**My approach:** Understand the requirements → Design the architecture → Build the system → Integrate & test → Deliver & improve.
 
 ---
 
-## 🚀 What I'm Building
+## 🚀 Featured Projects
 
-**BOSSONE.LK** — Client-focused B2B wholesale commerce and business management platform.
+### BOSSONE.LK — Client-Focused Business Platform
+
+A B2B wholesale commerce and business management platform built around real-world business requirements and operational workflows.
 
 `Next.js` `NestJS` `TypeScript` `Prisma` `PostgreSQL` `Supabase` `Socket.IO`
 
-**APIWatch** — Multi-tenant SaaS platform focused on API monitoring and development team management.
+### APIWatch — Multi-Tenant SaaS
+
+A SaaS platform focused on API monitoring, development team collaboration, workspace management and project-level access control.
 
 `Angular` `Java` `Spring Boot` `TypeScript` `PostgreSQL` `Docker`
 
@@ -88,14 +130,22 @@ From understanding client requirements and designing systems to implementation, 
 
 ## 🎓 Education
 
-**B.Sc. (Hons) in Computer Science**
-Lanka Nippon BizTech Institute (LNBTI) · University of Greenwich affiliation
-2023 – Present
-
-**Languages:** 🇱🇰 Sinhala · 🇬🇧 English · 🇯🇵 Japanese
+**B.Sc. (Hons) in Computer Science**  
+Lanka Nippon BizTech Institute (LNBTI)  
+University of Greenwich affiliation · 2023 – Present
 
 ---
 
-\<p align="center">   \<b>Engineering beyond features. Building beyond expectations. 🚀\</b> \</p>
+<div align="center">
 
-\<p align="center">   \<a href="[https://github.com/dewsithmenuka](https://github.com/dewsithmenuka)">Explore My Repositories\</a> ·   \<a href="[https://www.linkedin.com/in/menuka-dewsith-b6b04a2a6/](https://www.linkedin.com/in/menuka-dewsith-b6b04a2a6/)">Connect on LinkedIn\</a> ·   \<a href="mailto\:dewsithmenuka\@gmail.com">Get in Touch\</a> \</p>
+### Let's Build Something Meaningful 🚀
+
+**Engineering beyond features. Building beyond expectations.**
+
+<a href="https://github.com/dewsithmenuka">GitHub</a> &nbsp; · &nbsp;
+<a href="https://www.linkedin.com/in/menuka-dewsith-b6b04a2a6/">LinkedIn</a> &nbsp; · &nbsp;
+<a href="mailto:dewsithmenuka@gmail.com">Email Me</a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2389DA,50:123B66,100:0D1117&height=100&section=footer" width="100%" alt="Footer"/>
+
+</div>
